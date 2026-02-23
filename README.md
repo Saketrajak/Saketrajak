@@ -44,5 +44,5 @@ Autoencoder-based pretraining to enhance supervised learning in low-data scenari
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn: https://www.linkedin.com/in/saket-rajak-610906282/
+- 📧 Email: saketsince05@gmail.com
