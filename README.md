@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saket Rajak</h1>
-<h3 align="center">BTech CSE Student | AI & ML Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+AI+Systems;Future+AI+Engineer+🚀" />
+  </a>
+</p>
 
 ---
 
@@ -12,10 +17,18 @@
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,tensorflow,pytorch" />
+</p>
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🛫 Aur Fare Prediction Chatbot
-Machine Learning based chatbot that predicts airfare prices intelligently.
+ML-based chatbot that predicts airfare prices intelligently.
 
 ### 🔒 Deadlock Detection System
 GUI-based system to detect deadlocks using graph cycle detection.
@@ -25,24 +38,32 @@ Autoencoder-based pretraining to enhance supervised learning in low-data scenari
 
 ---
 
-## 🛠 Tech Stack
-- 💻 Python
-- ☕ Java
-- 🔷 C++
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🖥 Tkinter
-- 🔗 Git & GitHub
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saketrajak&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketrajak&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketrajak&show_icons=true&theme=tokyonight)
+## 🏆 GitHub Trophy
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saketrajak&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saketrajak&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saketrajak&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/saket-rajak-610906282/
-- 📧 Email: saketsince05@gmail.com
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add professional email)
