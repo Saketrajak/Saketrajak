@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Saket Rajak</h1>
+<h3 align="center">BTech CSE Student | AI & ML Enthusiast | Problem Solver</h3>
 
-<!--
-**Saketrajak/Saketrajak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🧠 Building real-world AI-powered systems
+- 🏆 2nd Prize Winner – Product Expo
+- 🌱 Currently working on intelligent automation & ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects
+
+### 🛫 Aur Fare Prediction Chatbot
+Machine Learning based chatbot that predicts airfare prices intelligently.
+
+### 🔒 Deadlock Detection System
+GUI-based system to detect deadlocks using graph cycle detection.
+
+### 🧬 Self-Supervised Learning Model
+Autoencoder-based pretraining to enhance supervised learning in low-data scenarios.
+
+---
+
+## 🛠 Tech Stack
+- 💻 Python
+- ☕ Java
+- 🔷 C++
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🖥 Tkinter
+- 🔗 Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketrajak&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saketrajak&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add professional email)
