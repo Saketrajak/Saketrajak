@@ -1,5 +1,6 @@
-<h1 align="center">Hey!, I'm Saket Rajak</h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saketrajak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=BTech+CSE;AI+%26+Data+Science;Building+Real+World+Solutions" />
