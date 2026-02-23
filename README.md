@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Saket Rajak</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saketrajak&label=Visitors&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=saketrajak&label=AI+PROFILE+SCANS&color=ff00ff&style=for-the-badge" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
