@@ -33,7 +33,7 @@
 
 ## 🔥 Featured Projects
 
-### 🛫 Aur Fare Prediction Chatbot
+### 🛫 Air Fare Prediction Chatbot
 ML-based chatbot that predicts airfare prices intelligently.
 
 ### 🔒 Deadlock Detection System
